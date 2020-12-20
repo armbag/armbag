@@ -2,7 +2,7 @@
 
 ## I'm a fullstack web developper
 
-- 💰 I'm currently looking for a position of web developer
+- 💰 I'm currently looking for a position in web development
 
 - 🤯 Constantly curious about new tech
 
