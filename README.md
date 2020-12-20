@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi there, I'm [Armen Bagramian][website]
 
-<!--
-**armbag/armbag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a fullstack web developper
 
-Here are some ideas to get you started:
+- 💰 I'm currently looking for a position of web developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤯 Constantly curious about new tech
+
+- 💻 I’m also open for freelance projects
+
+- 🍳 I love cooking and woodworking
+
+### Connect with me:
+
+[<img align="left" alt="Armen | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
+
+[<img align="left" alt="ARmen | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[<img align="left" alt="Armen | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="Armen | Instagram" width="30px"
+src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+ <br />
+ 
+---
+
+[website]: SOON
+[twitter]: https://twitter.com/armbagram
+[facebook]: https://www.facebook.com/armen.bagramian/
+[instagram]: https://www.instagram.com/armbagram
+[linkedin]: https://www.linkedin.com/in/armen-bagramian/
